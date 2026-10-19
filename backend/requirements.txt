@@ -1,0 +1,21 @@
+# Web
+Django>=6.0,<6.1
+djangorestframework>=3.16
+django-cors-headers>=4.7
+gunicorn>=23.0
+
+# Async
+celery>=5.5
+redis>=5.2
+
+# Database
+psycopg[binary]>=3.2.11
+
+# Math
+numpy>=2.3
+scipy>=1.16.2
+sympy>=1.14
+pandas>=2.3.3
+
+# Env
+python-dotenv>=1.1
